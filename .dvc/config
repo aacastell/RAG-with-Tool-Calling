@@ -1,6 +1,6 @@
 [core]
-    remote = aws-remote
+    remote = localstore
 ['remote "localstore"']
-    url = tmp/dvcstore
+    url = /Users/castellano/DVC_STORE
 ['remote "aws-remote"']
     url = s3://castellano-dvcstore-rag

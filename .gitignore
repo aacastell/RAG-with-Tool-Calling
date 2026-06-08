@@ -1,3 +1,4 @@
 *.pem
 .ipynb_checkpoints/
 /data
+secrets/
