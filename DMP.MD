@@ -1,7 +1,3 @@
-Here is a **full, polished, portfolio-grade Data Management Plan (DMP)** tailored to your **Kaggle RAG competition project**, with **MLflow + DVC fully integrated** and written at a level that signals *production awareness*.
-
-***
-
 # 📄 Data Management Plan (DMP)
 
 ## Project: MAPLN Artemis RAG Assistant
@@ -308,18 +304,3 @@ mlflow ui
 * Add data drift monitoring for evolving datasets
 
 ***
-
-# 🧠 Final Signal (What this communicates)
-
-This DMP shows:
-
-* You understand **end-to-end ML systems**
-* You separate:
-  * Data (DVC)
-  * Experiments (MLflow)
-* You can build **reproducible, scalable pipelines**
-* You think in terms of **RAG architecture, not just modeling**
-
-***
-
-If you want, next step I’d recommend is upgrading this into a **System Design + Architecture diagram (like a mini production stack)**—that’s what turns this from a strong project into something that gets interviews.
